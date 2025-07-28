@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace KonsolcumApi.Application.ViewModels.Categories
+{
+    public class VM_Create_Category
+    {
+        public string name { get; set; }
+
+        public string description { get; set; }
+
+        public bool isActive { get; set; } = true;
+    }
+}
