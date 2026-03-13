@@ -36,4 +36,3 @@ Proje, bağımlılıkları minimize eden ve test edilebilirliği artıran **Onio
 * **MediatR (CQRS Deseni)**
 * **SignalR (Gerçek Zamanlı İletişim)**
 * **FluentValidation (Veri Doğrulama)**
-* **AutoMapper (Nesne Eşleme)**
